@@ -1,5 +1,5 @@
 ---
-title: "PersonalSite"
+title: "Sehar"
 ---
 
 This is a Quarto website.
