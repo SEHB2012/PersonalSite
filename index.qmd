@@ -1,11 +1,5 @@
 ---
-title: "Sehar"
+title: "Sehar Bajwa"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Emerging UX Researcher and Interface designer. Creative problem solver. I believe that good design is intuitive, interactive, and intentional. Firm believer in the power of joyful design, and that interactions with technology should spark wonder, satisfaction, and conversation.
